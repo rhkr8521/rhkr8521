@@ -4,10 +4,10 @@
 
 ### Hi there 👋, My name is TAEGEUN
 <p>
-  <a href="mailto:rhkr8521@rhkr8521.com" target="_blank"><img src="https://img.shields.io/badge/rhkr8521@rhkr8521.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br>
   🎓 4nd Year under graduate student at Chungbuk National Univ<br>
   🌱 I’m currently learning Web Full Stack<br>
-  🤔 Looking for open source to contribute
+  🤔 Looking for open source to contribute<br>
+  <a href="mailto:rhkr8521@rhkr8521.com" target="_blank"><img src="https://img.shields.io/badge/rhkr8521@rhkr8521.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
 <br>
