@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 -->
 
 ### 💪 My Stacks/Skills 💪
-<p>
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -37,12 +36,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-</p>
 
 ### ✨ My Most Used Languages ✨
-<p>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkr8521&layout=compact&theme=transparent).
-</p>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&height=200&color=timeAuto&fontAlign=73&fontAlignY=22&rotate=14&animation=fadeIn&descAlign=80&descAlignY=42&section=footer)
   
