@@ -7,6 +7,8 @@
   <a href="mailto:rhkr8521@rhkr8521.com" target="_blank"><img src="https://img.shields.io/badge/rhkr8521@rhkr8521.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
+<br>
+
 <!--
 **rhkr8521/rhkr8521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -36,6 +38,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+<br>
 
 ### ✨ My Most Used Languages ✨
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkr8521&layout=compact&theme=transparent).
