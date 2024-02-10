@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 <div align="center">
 ### My Most Used Languages<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkr8521&layout=compact&theme=transparent).
-
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=rhkr8521&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent).
 
 ### My Git Stats<br>
