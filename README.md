@@ -27,4 +27,6 @@ Here are some ideas to get you started:
 ### My Most Used Languages<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkr8521&layout=compact&theme=transparent).
 
+![footer](https://capsule-render.vercel.app/api?type=slice&height=200&color=timeAuto&fontAlign=73&fontAlignY=22&rotate=14&animation=fadeIn&descAlign=80&descAlignY=42&section=footer)
+
 </div>
