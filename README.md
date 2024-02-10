@@ -29,7 +29,4 @@ Here are some ideas to get you started:
 
 ![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=rhkr8521&layout=compact&theme=transparent](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=transparent)).
 
-### My Git Stats<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkr8521&show_icons=true&layout=comapact&theme=transparent)
-
 </div>
