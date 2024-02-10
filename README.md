@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 
 ### My Github Stats<br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkr8521&show_icons=true&theme=transparent)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkr8521&layout=compact&theme=transparent).
