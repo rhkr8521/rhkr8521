@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, My name is TAEGEUN
 
 <!--
 **rhkr8521/rhkr8521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+
+##My Stacks...
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+##My Github Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkr8521&show_icons=true&theme=radical)
