@@ -2,8 +2,8 @@
   
 ![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=timeAuto&text=Hello&fontAlign=73&fontAlignY=22&rotate=14&animation=fadeIn&desc=I'm%20TAEGEUN&descAlign=80&descAlignY=42)
 
+### Hi there 👋, My name is TAEGEUN
 <p>
-  ### Hi there 👋, My name is TAEGEUN
   <a href="mailto:rhkr8521@rhkr8521.com" target="_blank"><img src="https://img.shields.io/badge/rhkr8521@rhkr8521.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
@@ -21,8 +21,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 💪 My Stacks/Skills 💪
 <p>
-  ### 💪 My Stacks/Skills 💪
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -38,8 +39,8 @@ Here are some ideas to get you started:
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 </p>
 
+### ✨ My Most Used Languages ✨
 <p>
-  ### ✨ My Most Used Languages ✨
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkr8521&layout=compact&theme=transparent).
 </p>
 
