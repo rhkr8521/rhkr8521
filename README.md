@@ -4,7 +4,7 @@
 
 ### Hi there 👋, My name is TAEGEUN
 <p>
-  🎓 4nd Year under graduate student at Chungbuk National Univ<br>
+  🎓 4nd Year undergraduate student at Chungbuk National Univ<br>
   🌱 I’m currently learning Web Full Stack<br>
   🤔 Looking for open source to contribute<br>
 </p>
