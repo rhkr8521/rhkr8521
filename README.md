@@ -9,8 +9,6 @@
   🎓 4nd Year undergraduate student at Chungbuk National Univ<br>
 </p>
 
-<br>
-
 <!--
 **rhkr8521/rhkr8521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +24,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### 💼 Career 💼
+  2020.07 ~ 2020.08 ITIS Co. in the New Technology Business Department <br>
+  2023.07 ~ 2023.08 AnyLine Co. Web Services Business Unit Internship &nbsp;
+<!-- 2024.03 ~ Chungju Commercial High School Web Development Teacher -->
+
+<!--
+ ### 🏃 Activity 🏃
+-->
+
+    
 ### 💪 My Stacks/Skills 💪
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
