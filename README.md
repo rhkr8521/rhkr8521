@@ -9,21 +9,6 @@
   🎓 4nd Year undergraduate student at Chungbuk National Univ<br>
 </p>
 
-<!--
-**rhkr8521/rhkr8521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ### 💼 Career 💼
   2020.07 ~ 2020.08 ITIS Co. in the New Technology Business Department <br>
   2023.07 ~ 2023.08 AnyLine Co. Web Services Business Unit Internship &nbsp;
@@ -58,3 +43,4 @@ Here are some ideas to get you started:
 ![footer](https://capsule-render.vercel.app/api?type=slice&height=200&color=timeAuto&fontAlign=73&fontAlignY=22&rotate=14&animation=fadeIn&descAlign=80&descAlignY=42&section=footer)
   
 </div>
+<!--🔭🌱👯🤔💬📫😄⚡ -->
