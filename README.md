@@ -12,8 +12,7 @@
 ### 💼 Career 💼
 <p>
   2020.07 ~ 2020.08 ITIS Co. in the New Technology Business Department <br>
-  2023.07 ~ 2023.08 AnyLine Co. Web Services Business Unit Internship &nbsp;
-<!-- 2024.03 ~ Chungju Commercial High School Web Development Teacher -->
+  2023.07 ~ 2023.08 AnyLine Co. Web Services Business Unit Internship
 </p>
 
 <!--
