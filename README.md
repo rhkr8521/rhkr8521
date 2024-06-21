@@ -12,7 +12,8 @@
 ### 💼 Career 💼
 <p>
   2020.07 ~ 2020.08 ITIS Co. in the New Technology Business Department <br>
-  2023.07 ~ 2023.08 AnyLine Co. Web Services Business Unit Internship 
+  2023.07 ~ 2023.08 AnyLine Co. Web Services Business Unit Internship <br>
+  [My Local Git] : https://git.rhkr8521.com
 </p>
 
 <!--
@@ -36,10 +37,11 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<br>
-
 ### ✨ My Most Used Languages ✨
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkr8521&layout=compact&theme=transparent).
+
+### ✨ My Achievement ✨
+<img src="https://github.com/rhkr8521/rhkr8521/assets/12209059/14af3b84-4e59-4b55-a46d-f7af56cd0bb6" width="50%" height="50%"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&height=200&color=timeAuto&fontAlign=73&fontAlignY=22&rotate=14&animation=fadeIn&descAlign=80&descAlignY=42&section=footer)
   
