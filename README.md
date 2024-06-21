@@ -7,13 +7,13 @@
   🌱 I’m currently learning Web Full Stack<br>
   🤔 Looking for open source to contribute<br>
   🎓 4nd Year undergraduate student at Chungbuk National Univ<br>
+  [My Local Git] : https://git.rhkr8521.com
 </p>
 
 ### 💼 Career 💼
 <p>
   2020.07 ~ 2020.08 ITIS Co. in the New Technology Business Department <br>
-  2023.07 ~ 2023.08 AnyLine Co. Web Services Business Unit Internship <br>
-  [My Local Git] : https://git.rhkr8521.com
+  2023.07 ~ 2023.08 AnyLine Co. Web Services Business Unit Internship
 </p>
 
 <!--
