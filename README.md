@@ -1,13 +1,4 @@
-<div align="center">
- 
-![header](https://capsule-render.vercel.app/api?type=slice&height=200&color=timeAuto&text=Hello&fontAlign=73&fontAlignY=22&rotate=14&animation=fadeIn&desc=I'm%20TAEGEUN&descAlign=80&descAlignY=42)
-
 ### Hi there 👋, My name is TAEGEUN
-<p>
-  🌱 I’m currently learning Web Full Stack<br>
-  🤔 Looking for open source to contribute<br>
-</p>
-
 
 ### 💼 Career 💼
 <p>
@@ -36,13 +27,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-### ✨ My Most Used Languages ✨
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rhkr8521&layout=compact&theme=transparent).
+### ✨ My Github Stats ✨
+  [![rhkr8521's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkr8521)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✨ My Achievement ✨
 <img src="https://github.com/rhkr8521/rhkr8521/assets/12209059/14af3b84-4e59-4b55-a46d-f7af56cd0bb6" width="50%" height="50%"/>
-
-![footer](https://capsule-render.vercel.app/api?type=slice&height=200&color=timeAuto&fontAlign=73&fontAlignY=22&rotate=14&animation=fadeIn&descAlign=80&descAlignY=42&section=footer)
-  
-</div>
 <!--🔭🌱👯🤔💬📫😄⚡ -->
