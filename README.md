@@ -23,7 +23,7 @@
   ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  ![rhkr8521 PGM](https://img.shields.io/badge/rhkr8521_PGM-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+  ![GitLab](https://img.shields.io/badge/rhkr8521_PGM-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
