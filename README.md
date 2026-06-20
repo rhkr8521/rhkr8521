@@ -2,6 +2,7 @@
 
 ### 💼 Career 💼
 <p>
+  2026.06 ~ Toray Advanced Materials’ IT affiliate, part of Japan’s Toray Group <br>
   2020.07 ~ 2020.08 ITIS Co. in the New Technology Business Department <br>
   2023.07 ~ 2023.08 AnyLine Co. Web Services Business Unit Internship
 </p>
