@@ -6,8 +6,6 @@
 
 꾸준히 배우고 성장하는 개발자 곽태근 입니다.
 
-<br>
-
 ---
 
 ### 💼 Career 💼
@@ -17,8 +15,6 @@
 | 2026.06 ~ NOW | Toray Advanced Materials’ IT affiliate, part of Japan’s Toray Group |
 | 2023.07 ~ 2023.08 | AnyLine Co. Web Services Business Unit Internship |
 | 2020.07 ~ 2020.08 | ITIS Co. New Technology Business Department |
-
-<br>
 
 ---
 
@@ -39,15 +35,11 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<br>
-
 ---
 
 ### ✨ My Github Stats ✨
 
 [![rhkr8521's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhkr8521)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
 
 ---
 
