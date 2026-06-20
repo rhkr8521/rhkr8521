@@ -13,6 +13,7 @@
 | Period | Company / Department |
 |---|---|
 | 2026.06 ~ NOW | Toray Advanced Materials’ IT affiliate, part of Japan’s Toray Group |
+| 2024.12 ~ 2026.06 | Anycall Mobility Co., Ltd., a Kakao Mobility affiliate |
 | 2023.07 ~ 2023.08 | AnyLine Co. Web Services Business Unit Internship |
 | 2020.07 ~ 2020.08 | ITIS Co. New Technology Business Department |
 
